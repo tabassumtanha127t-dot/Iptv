@@ -1,0 +1,6 @@
+{
+  "name": "saif-iptv-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Secure IPTV Proxy API on Vercel"
+}
